@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    " B ",
+    " S "
+  ],
+  "key": {
+    "B": {
+      "item": "saomod:night_sky_crystal"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "saomod:night_sky_sword"
+  }
+}
